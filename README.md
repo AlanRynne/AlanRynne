@@ -2,7 +2,7 @@
 
 I'm Alan Rynne, a building engineer, computational designer, coder and teacher currently based in Barcelona. I specialize in solving complex problems in the construction industry using the power of geometry 💪🏻.
 
-I currently work at [Apogea](), a consulting firm specialized in the AEC industry, and teach at the [MPDA](). I also created [Paramdigma](), a place for myself and others to create cool stuff related to design, geometry and programming.
+I currently work at [Apogea](https://apogeaconsulting.com), a consulting firm specialized in the AEC industry, and teach at the [MPDA](http://mpda.upc.edu). I also created [Paramdigma](https://paramdigma.com), a place for myself and others to create cool stuff related to design, geometry and programming.
 
 ### I speak...
 
