@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm Alan Rynne, a building engineer, computational designer, coder and teacher currently based in Barcelona.
+
+I currently work at [Apogea](), a consulting firm specialized in the AEC industry, and teach at the [MPDA](). I also created [Paramdigma](), a place for myself and others to create cool stuff related to design, geometry and programming.
+
+#### I know/use...
+
+<p align="center">
+ <a href="#">
+    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
+</p>
+
 <!--
 **AlanRynne/AlanRynne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
