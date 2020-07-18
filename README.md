@@ -37,9 +37,9 @@ I currently work at [Apogea](), a consulting firm specialized in the AEC industr
 
 ### Contact me at...
 
-![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=blue)
-![](https://img.shields.io/static/v1?label&logo=twitter&message=twitter&style=for-the-badge&color=black)
-![](https://img.shields.io/static/v1?label&logo=instagram&message=instagram&style=for-the-badge&color=black)
+[![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=blue)](https://linkedin.com/in/alanrynnevidal)
+[![](https://img.shields.io/static/v1?label&logo=twitter&message=twitter&style=for-the-badge&color=black)](https://twitter.com/alanrynne)
+[![](https://img.shields.io/static/v1?label&logo=instagram&message=instagram&style=for-the-badge&color=black)](https://instagram.com/alanrynne)
 
 <!--
 **AlanRynne/AlanRynne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
