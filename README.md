@@ -1,4 +1,4 @@
-### Hello fellow `<coder>`❗️ 👨🏼‍💻👨🏽‍💻👨🏾‍💻👨🏿‍💻👨‍💻👨🏻‍💻
+### Hello fellow `<coder>`❗️
 
 I'm [Alan Rynne](https://rynne.es), a _building engineer_, _computational designer_, _coder_ and _teacher_ currently based in Barcelona. I specialize in solving complex problems in the construction industry using the power of geometry 💪🏻.
 
