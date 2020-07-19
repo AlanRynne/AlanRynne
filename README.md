@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello fellow `<coder>`❗️ 👨🏼‍💻👨🏽‍💻👨🏾‍💻👨🏿‍💻👨‍💻👨🏻‍💻
 
-I'm Alan Rynne, a building engineer, computational designer, coder and teacher currently based in Barcelona. I specialize in solving complex problems in the construction industry using the power of geometry 💪🏻.
+I'm [Alan Rynne](https://rynne.es), a _building engineer_, _computational designer_, _coder_ and _teacher_ currently based in Barcelona. I specialize in solving complex problems in the construction industry using the power of geometry 💪🏻.
 
 I currently work at [Apogea](https://apogeaconsulting.com), a consulting firm specialized in the AEC industry, and teach at the [MPDA](http://mpda.upc.edu). I also created [Paramdigma](https://paramdigma.com), a place for myself and others to create cool stuff related to design, geometry and programming.
 
@@ -11,16 +11,19 @@ I currently work at [Apogea](https://apogeaconsulting.com), a consulting firm sp
 
 ### I code mainly in...
 
-![](https://img.shields.io/static/v1?label&logo=c%20sharp&message=C-Sharp&style=for-the-badge&color=black)
-![](https://img.shields.io/static/v1?label&logo=typescript&message=Typescript&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&logo=c%20sharp&message=C-Sharp&style=for-the-badge&color=black&logoColor=purple)
+![](https://img.shields.io/static/v1?label&logo=typescript&message=Typescript&style=for-the-badge&color=black&logoColor=blue)
 ![](https://img.shields.io/static/v1?label&logo=javascript&message=Javascript&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=python&message=python&style=for-the-badge&color=black)
 
 ### I use...
 
-![](https://img.shields.io/static/v1?label&logo=vue.js&message=Vue.js&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label=&logo=vue.js&message=Vue.js&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=graphql&message=GraphQL&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=firebase&message=Firebase&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&logo=heroku&message=heroku&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&logo=codecov&message=codecov&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label=github&logo=github&message=actions&style=for-the-badge&color=blue&labelColor=black)
 
 ![](https://img.shields.io/static/v1?label&logo=node.js&message=node.js&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=sass&message=SASS&style=for-the-badge&color=black)
@@ -29,6 +32,12 @@ I currently work at [Apogea](https://apogeaconsulting.com), a consulting firm sp
 
 ![](https://img.shields.io/static/v1?label&logo=npm&message=NPM&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=nuget&message=Nuget&style=for-the-badge&color=black)
+
+### I'm currently learning...
+
+![](https://img.shields.io/static/v1?label=ifc&message=industry%20foundation%20classes&style=for-the-badge&color=black&labelColor=d41f4e)
+![](https://img.shields.io/static/v1?label=parsing&message=nearley.js&style=for-the-badge&color=black&labelColor=f25822)
+![](https://img.shields.io/static/v1?label=lsp&message=language%20server%20protocol&style=for-the-badge&color=black&labelColor=f7951c)
 
 ### I created...
 
