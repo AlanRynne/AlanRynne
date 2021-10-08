@@ -2,7 +2,7 @@
 
 I'm [Alan Rynne](https://rynne.es), a _building engineer_, _computational designer_, _coder_ and _teacher_ currently based in Barcelona. I specialize in solving complex problems in the construction industry using the power of geometry 💪🏻.
 
-I currently work at [Speckle](https://speckle.systems), an awesome data interoperability solution for the AEC industry, and teach at the [MPDA](http://mpda.upc.edu). I also created [Paramdigma](https://paramdigma.com), a place for myself and others to create cool stuff related to design, geometry and programming.
+I currently work at [Speckle](https://speckle.systems), an awesome data interoperability solution for the AEC industry, and teach at the [MPDA](http://mpda.upc.edu) and [MaCAD](https://iaac.net/educational-programmes/masters-programmes/macad/) master programmes. I also created [Paramdigma](https://paramdigma.com), a place for myself and others to create cool stuff related to design, geometry and programming.
 
 ### I speak...
 
